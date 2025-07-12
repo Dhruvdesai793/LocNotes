@@ -1,0 +1,2 @@
+# LocNotes
+works on localStorage.
